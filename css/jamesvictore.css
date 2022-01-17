@@ -1,0 +1,168 @@
+body{
+
+	background-color: #9fd4d4;
+	margin: 0;
+}
+
+.main{
+
+	max-width: 1200px;
+	margin: 0 auto;
+	background-color: white;
+	padding-top: 10px;
+}
+
+
+.img{
+
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0px 0 20px;
+}
+
+.img img{
+
+	padding-bottom: 10px;
+}
+
+.img p{
+
+	font-family: 'Roboto Mono', monospace;
+	font-weight: 300;
+	color: black;
+	font-size: 25px;
+	line-height: 30px;
+	margin-left: 8px;
+	margin-right: 8px;
+	margin-bottom: 50px;
+}
+
+.img a{
+
+	color: black;
+}
+
+.img a:hover{
+	background-color: black;
+	color: white;
+}
+
+.img h2 a{
+	font-family: 'Roboto Mono', monospace;
+	font-weight: 500;
+	font-style: italic;
+	color: #0000ff;
+	font-size: 20px;
+
+}
+
+
+.bio{
+
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 35px 0 20px;
+	background-color: #0000ff;
+
+}
+
+.bio h1{
+	font-family: 'Ultra', serif;
+	font-size: 70px;
+	line-height: 76px;
+	color: white;
+	font-weight: 400;
+	margin: 0 90px;
+}
+
+.bio p{
+	font-family: 'Ultra', serif;
+	font-size: 70px;
+	color: black;
+	background-color: #6e8f8a;
+	font-weight: 400;
+	margin: 0 90px;
+	width: 170px;
+}
+
+.main h1 a{
+	font-family: 'Roboto Mono', monospace;
+	font-weight: 500;
+	font-style: italic;
+	color: #0000ff;
+	font-size: 20px;
+	margin: 0 200px;
+	padding: 0;
+
+
+}
+
+.texto{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 25px 0 30px;
+
+}
+
+.texto h1{
+
+	font-family: 'Roboto Mono', monospace;
+	font-weight: 300;
+	color: black;
+	font-size: 25px;
+	line-height: 30px;
+	margin-left: 8px;
+	margin-right: 8px;
+	margin-bottom: 15px;
+}
+
+.texto p{
+	font-family: 'Roboto Mono', monospace;
+	font-weight: 300;
+	color: #0000ff;
+	line-height: 22px;
+	font-size: 18px;
+	margin-left: 8px;
+	margin-right: 8px;
+	margin-bottom: 50px;
+	margin-top: 30px;
+
+}
+
+.texto ul h2{
+
+	font-family: 'Ultra', serif;
+	font-weight: 400;
+	color: black;
+	font-size: 21px;
+	margin-left: 0px;
+	margin-right: 8px;
+	margin-bottom: 20px;
+}
+
+
+.texto ul li h3{
+	font-family: 'Roboto Mono', monospace;
+	font-weight: 400;
+	font-size: 21px;
+	color: black;
+	background-color: #9fd4d4;
+	line-height: 24px;
+}
+
+.texto ul{
+	list-style-type: none;
+	margin: 0 auto;
+	width: 500px;
+	padding-bottom: 50px;
+}
+
+.texto h2 a{
+	font-family: 'Roboto Mono', monospace;
+	font-weight: 500;
+	font-style: italic;
+	color: #0000ff;
+	font-size: 20px;
+}
+
+
